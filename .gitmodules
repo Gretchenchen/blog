@@ -1,0 +1,4 @@
+[submodule "thebrightlittlethings/public"]
+	path = thebrightlittlethings/public
+	url = https://github.com/Gretchenchen/gretchenchen.github.io.git
+	branch = main

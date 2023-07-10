@@ -1,0 +1,4 @@
+baseURL = 'http://gretchenchen.github.io/'
+languageCode = 'zh-cn'
+title = '记一忘三二'
+theme="hugo-theme-diary"
